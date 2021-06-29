@@ -1,8 +1,9 @@
+/* jumbotorn */
 .jumbotron{
     background-image: url(../img/bg02.jpg);
     width: 100%;
     background-size: cover;
-    height: 600px;
+    height:auto;
     text-align: center;
 }    
 
