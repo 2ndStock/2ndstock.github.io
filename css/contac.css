@@ -1,7 +1,9 @@
+/* jumbotron */
 .jumbotron{
     background-image: url(../img/bg01.jpg);
+    width: 100%;
     background-size: cover;
-    height: 600px;
+    height: auto;
     text-align: center;
 }    
 
@@ -29,5 +31,5 @@
     padding-left: 25px;
     padding-right: 25px;
     margin-top: 10px;
-    margin-bottom: 10px;
+
 }

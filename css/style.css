@@ -3,7 +3,7 @@
     background-image: url('../img/bg01.jpg');
     width: 100%;
     background-size: cover;
-    height: 600px;
+    height: auto;
 }    
 
 .jumbotron .display-4{
